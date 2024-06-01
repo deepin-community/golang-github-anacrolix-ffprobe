@@ -1,5 +1,30 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-anacrolix-ffprobe (1.0.1-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release.
+  * Standards-Version: 4.6.1
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Drew Parsons <dparsons@debian.org>  Wed, 02 Nov 2022 23:34:57 +0100
+
+golang-github-anacrolix-ffprobe (1.0.0-3) unstable; urgency=low
+
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+
+  [ Drew Parsons ]
+  * Standards-Version: 4.6.0
+  * debhelper compatibility level 13
+
+ -- Drew Parsons <dparsons@debian.org>  Fri, 22 Apr 2022 15:34:40 +0200
+
+golang-github-anacrolix-ffprobe (1.0.0-2) unstable; urgency=medium
+
+  * gratuitous source upload to enable migration to testing
+
+ -- Drew Parsons <dparsons@debian.org>  Sun, 25 Aug 2019 20:04:49 +0800
+
+golang-github-anacrolix-ffprobe (1.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #933768)
+
+ -- Drew Parsons <dparsons@debian.org>  Wed, 07 Aug 2019 19:26:53 +0800
